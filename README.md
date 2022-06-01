@@ -1,3 +1,2 @@
 # django-web-app
-# python-django-web-application
-# my-django-project
+# a customer account management application for a Bank
