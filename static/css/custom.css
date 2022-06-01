@@ -1,0 +1,41 @@
+@charset "UTF-8";
+body {
+    background-color: #fcf8e3;
+}
+img {
+    background: green;
+    width: 150px;
+}
+h4 {
+    margin-top: 5px;
+    background: green;
+    font-size: 2em;
+    color: white;
+}
+.breadcrumb li {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.header {
+    background: #ffcd39;
+}
+th {
+    font-size: 1.1em;
+}
+.testpage {
+    margin: 4em;
+    text-align: center;
+    border: 3px solid lightgreen;
+    border-radius: 8px;
+    padding: 1.5em;
+    background-color: lightgreen;
+    color: crimson;
+    font-size: 2.5em;
+    font-weight: bold;
+}
+.button {
+  padding: 1.0em 1.5em;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.3em;
+}
